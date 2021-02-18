@@ -6,3 +6,6 @@ A batch interface for autodock vina, autodock 4, mgltools 1.5.6 and open babel t
 - enter the password: shirazpharmacy
 - enther the path to the programs openbabel,mgltools, autodock 4, autodock vina and autogrid
 - keep a copy of the application in any folder you have the file for the ligand and protein 
+
+## Cite to for any use
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6269558/
