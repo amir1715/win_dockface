@@ -1,6 +1,6 @@
 # win_dockface
 A batch interface for autodock vina, autodock 4, mgltools 1.5.6 and open babel to perform docking based virtual screeining 
-## Installation
+## First run Installation
 - Download the batch file
 - Right click on the file and run as administrator
 - enter the password: shirazpharmacy
