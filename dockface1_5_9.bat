@@ -8,7 +8,7 @@ echo  ---  -    - -----  ----  ----    ----   ----  -  --
 echo -   - -    -   -   -    - -   -  -    - -      - -
 echo -   - -    -   -   -    - -    - -    - -      --
 echo ----- -    -   -   -    - -    - -    - -      --
-echo -   - -    -   -   -    - -   -  -    - -      - -
+echo -   - -    -   -   -    - -   -  -    - -      - --
 echo -   -  ----    -    ----  ----    ----   ----  -  -- && echo.
 echo It is highly recommended to do all preparation procedures using this interfaces
 echo mgltools 1.5.6 must be installed
