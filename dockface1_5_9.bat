@@ -12,7 +12,7 @@ echo -   - -    -   -   -    - -   -  -    - -      - --
 echo -   -  ----    -    ----  ----    ----   ----  -  -- && echo.
 echo It is highly recommended to do all preparation procedures using this interfaces
 echo mgltools 1.5.6 must be installed
-echo For any help and support please send an email to :asakhteman@sums.ac.ir && echo.
+echo For any help and support please send an email to :nava20ir@gmail.com && echo.
 pause
 set number=1
 set fl= -x flexible.pdbqt
