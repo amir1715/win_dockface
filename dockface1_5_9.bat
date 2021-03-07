@@ -78,14 +78,14 @@ cls
 goto opt0
 
 :pat
-echo ### MGLTOOLS PARAMETERS ### && echo.
-set /p passw=Please Enter the password:
-if not %passw%==shirazpharmacy (
-echo the password is wrong
-echo please send an email to asakhteman@razi.tums.ac.ir for the password
-pause
-exit
-)
+::echo ### MGLTOOLS PARAMETERS ### && echo.
+::set /p passw=Please Enter the password:
+::if not %passw%==shirazpharmacy (
+::echo the password is wrong
+::echo please send an email to asakhteman@razi.tums.ac.ir for the password
+::pause
+::exit
+::)
 
 :pyth
 set pyth=C:\Program Files\MGLTools-1.5.6
